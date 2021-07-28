@@ -1,0 +1,166 @@
+{
+	margen  :   0 px;
+	relleno  :   0 px;
+}
+
+html  ,  cuerpo {
+	familia  de  fuentes  :  Arial  ,  Helvetica  ,  sans-serif ;
+}
+
+h1 {
+	color  :   # 000;
+	tama ño de  fuente  :   38 px;
+	alineaci ón de  texto  :  centro ;
+	peso de fuente  :  m ás negrita ;
+	sombra  de  texto  :   0 px   0 px   12 px   #  f00 ;
+	margen  superior  :   15 px;
+}
+
+h2 {
+	color  :   # 000;
+	tama ño de  fuente  :   34 px;
+	alineaci ón de  texto  :  centro ;
+	peso de fuente  :  m ás negrita ;
+	sombra  de  texto  :   0 px   0 px   12 px   #  f00 ;
+	margen  inferior  :   15 px;
+}
+
+#  contenedor {
+	ancho  :   100%;
+	ancho  m áximo :   100%;
+	altura  :  auto ;
+	Margen  :   0 px  autom ático;
+	relleno  :   0 px;
+}
+
+#  formulario {
+	ancho  :   100%;
+	ancho  m áximo :   100%;
+	altura  :  auto ;
+	Margen  :   0 px  autom ático;
+	relleno  :   0 px;
+}
+
+#  ir_atras {
+	color  :   #  f00 ;
+	pantalla  :  bloque ;
+	ancho  :   120 px;
+	cursor  :  puntero ;
+	Margen  :   20 px  autom ático 0 px  autom ático;
+	relleno  :   5 px;
+	tama ño de  fuente  :   18 px;
+	alineaci ón de  texto  :  centro ;
+	peso de fuente  :  m ás negrita ;
+	decoraci ón de  texto  :  ninguna ;
+}
+
+#  ir_atras  :  hover {
+	sombra  de  texto  :   0 px   0 px   2 px   # 000;
+	decoraci ón de  texto  :  subrayado ;
+}
+
+#  enlace_borrar {
+	color  :   #  f00 ;
+	peso de fuente  :  m ás negrita ;
+	decoraci ón de  texto  :  ninguna ;
+	tama ño de  fuente  :   18 px;
+	transformaci ón de  texto  :  may úsculas;
+	estilo  de  fuente  :  cursiva ;
+}
+
+#  enlace_borrar  :  hover {
+	sombra  de  texto  :   0 px   0 px   2 px   # 000;
+	decoraci ón de  texto  :  subrayado ;
+}
+
+. mensaje_error {
+	color  :   # 000;
+	peso de fuente  :  m ás negrita ;
+	alineaci ón de  texto  :  centro ;
+	tama ño de  fuente  :   16 px;
+	margen  superior  :   4 px;
+	margen  inferior  :   4 px;
+	pantalla  :  bloque ;
+	sombra  de  texto  :   0 px   0 px   8 px   #  f00 ;
+}
+
+fieldset {
+	ancho  :   30%;
+	ancho  m áximo :   100%;
+	altura  :  auto ;
+	Margen  :   20 px  autom ático;
+	acolchado  :   2%;
+	borde  :   2 px  s ólido #  f00 ;
+	color  de  fondo  :   #  d6d4d4 ;
+	radio  del  borde  :   1 em;
+	-Kit-web-borde-radio  :   1 em;
+}
+
+leyenda {
+	alineaci ón de  texto  :  centro ;
+	peso de fuente  :  m ás negrita ;
+	sombra  de  texto  :   0 px   0 px   4 px   #  f00 ;
+}
+
+etiqueta {
+	color  :   # 000;
+	pantalla  :  bloque ;
+	alineaci ón de  texto  :  centro ;
+	peso de fuente  :  m ás negrita ;
+	sombra  de  texto  :   0 px   0 px   2 px   #  f00 ;
+}
+
+input [ type  =  "text" ] {
+	ancho  :   260 px;
+	altura  :  auto ;
+	pantalla  :  bloque ;
+	peso de fuente  :  m ás negrita ;
+	Margen  :   8 px  autom ático;
+	borde  :   1 px  s ólido # 000;
+}
+
+input [ type  =  "submit" ] {
+	ancho  :   150 px;
+	altura  :  auto ;
+	pantalla  :  bloque ;
+	acolchado  :   2%;
+	Margen  :   0 px  autom ático;
+	color  :   #  f00 ;
+	cursor  :  puntero ;
+	peso de fuente  :  m ás negrita ;
+	color  de  fondo  :   # 000;
+	alineaci ón de  texto  :  centro ;
+	borde  :   2 px  s ólido #  f00 ;
+	transformaci ón de  texto  :  may úsculas;
+}
+
+input [ type  =  "submit" ] :  hover {
+	color  :   # 000;
+	color  de  fondo  :   #  f00 ;
+	color  del  borde  :   # 000;
+}
+
+mesa {
+	ancho  :   60%;
+	ancho  m áximo :   100%;
+	altura  :  auto ;
+	Margen  :   0 px  autom ático;
+}
+
+table   tr {
+	alineaci ón vertical  :  medio ;
+}
+
+table   th {
+	color  :   #  f00 ;
+	peso de fuente  :  m ás negrita ;
+	alineaci ón de  texto  :  centro ;
+	tama ño de  fuente  :   25 px;
+	decoraci ón de  texto  :  subrayado ;
+	sombra  de  texto  :   0 px   0 px   2 px   # 000;
+}
+
+table   td {
+	alineaci ón de  texto  :  centro ;
+	peso de fuente  :  m ás negrita ;
+	Altura  de  l INEA :   2 cm ;
